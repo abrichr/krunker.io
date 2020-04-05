@@ -1,6 +1,6 @@
 {
-  "name": "@fasetto/krunker.io",
-  "version": "0.4.2",
+  "name": "@abrichr/krunker.io",
+  "version": "0.4.3",
   "description": "UnOfficial Api for interacting the krunker.io social page",
   "main": "./src/index.js",
   "scripts": {
@@ -13,22 +13,21 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fasetto/krunker.io.git"
+    "url": "git+https://github.com/abrichr/krunker.io.git"
   },
   "keywords": [
     "krunker.io",
     "krunker",
     "krunker api"
   ],
-  "author": "SERKAN BIRCAN <serkanbircan21@yandex.com>",
+  "author": "Richard Abrich  <richard.abrich@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fasetto/krunker.io/issues"
+    "url": "https://github.com/abrichr/krunker.io/issues"
   },
-  "homepage": "https://github.com/fasetto/krunker.io#readme",
+  "homepage": "https://github.com/abrichr/krunker.io#readme",
   "dependencies": {
     "msgpack-lite": "^0.1.26",
-    "request": "^2.88.0",
-    "ws": "^7.0.1"
+    "request": "^2.88.0"
   }
 }
